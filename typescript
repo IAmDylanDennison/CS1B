@@ -1,0 +1,61 @@
+Script started on Wed 20 Nov 2019 05:16:26 PM EST
+]0;ddenni19@hornet:~[?1034h[ddenni19@hornet ~]$ clang++ Lab12_MultArray.cpp -o multarray
+]0;ddenni19@hornet:~[ddenni19@hornet ~]$ ls
+[0m[01;34mddenni19[0m  Lab12_MultArray.cpp  Lab12_Vector.cpp  [01;32mmultarray[0m  [01;34mpublic_html[0m  typescript
+]0;ddenni19@hornet:~[ddenni19@hornet ~]$ ./mu;[Kltarray 
+Another shot? [y/n]y
+location?1a
+you have fired all shots
+ a b c d e f
+1*          
+2            
+3            
+4            
+5            
+6            
+Another shot? y
+location?2c
+you have fired all shots
+ a b c d e f
+1*          
+2    *      
+3            
+4            
+5            
+6            
+Another shot? y
+location?6f
+you have fired all shots
+ a b c d e f
+1*          
+2    *      
+3            
+4            
+5            
+6          *
+Another shot? y
+location?4d
+you have fired all shots
+ a b c d e f
+1*          
+2    *      
+3            
+4      *    
+5            
+6          *
+Another shot? ^[[B^[[B        y
+location?1e
+you have fired all shots
+ a b c d e f
+1*      *  
+2    *      
+3            
+4      *    
+5            
+6          *
+Another shot? n
+you have quit
+]0;ddenni19@hornet:~[ddenni19@hornet ~]$ exo[Kiy[Kt
+exit
+
+Script done on Wed 20 Nov 2019 05:19:09 PM EST

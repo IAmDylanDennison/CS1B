@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab6_powerball.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  powerball.cpp
+C:\Users\dill1\OneDrive\Desktop\ddenni19\Lab6_powerball\Lab6_powerball\powerball.cpp(49,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6_powerball.vcxproj -> C:\Users\dill1\OneDrive\Desktop\ddenni19\Lab6_powerball\Debug\Lab6_powerball1.exe

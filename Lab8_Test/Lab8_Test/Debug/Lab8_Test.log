@@ -1,0 +1,3 @@
+﻿  battleship.cpp
+C:\Users\dill1\source\repos\Lab8_Test\Lab8_Test\battleship.cpp(97): warning C4715:  'operational': not all control paths return a value
+  Lab8_Test.vcxproj -> C:\Users\dill1\source\repos\Lab8_Test\Debug\Lab8_Test.exe

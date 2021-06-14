@@ -1,0 +1,3 @@
+﻿  Battlefield.cpp
+C:\Users\dill1\source\repos\Lab9_Game\Lab9_Game\Battlefield.cpp(23,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab9_Game.vcxproj -> C:\Users\dill1\source\repos\Lab9_Game\Debug\Lab9_Game.exe

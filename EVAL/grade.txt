@@ -1,0 +1,11 @@
+quiz3 6/10
+lab7  9.5/10
+lab8  10/10  Good job!
+lab9  10/10  Good job!
+lab10 10/10 Good job!
+
+
+Comments on lab7:
+Part 2:
+You need consider the size of a line is greatre than 40 or not to do justification.
+

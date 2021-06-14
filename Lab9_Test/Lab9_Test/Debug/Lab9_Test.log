@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\dill1\source\repos\Lab9_Test\Lab9_Test\test.cpp(11,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab9_Test.vcxproj -> C:\Users\dill1\source\repos\Lab9_Test\Debug\Lab9_Test.exe
